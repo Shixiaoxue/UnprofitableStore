@@ -20,3 +20,7 @@
 
 ####src                   main/test 包
 ####build.gradle          gradle 构建信息
+
+#
+#### UnprofitableStore.java中包含main()函数
+####对ShoppingList.java 进行测试 -> ShoppingListTest.java
